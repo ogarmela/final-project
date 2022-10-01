@@ -1,0 +1,83 @@
+
+/* Centre the page */
+.body {
+  display:block;
+  margin:0 auto;
+  width:576px;
+}
+
+/* Centre the form within the page */
+form {
+  margin:0 auto;
+  width:459px;
+}
+
+/* Style the text boxes */
+input, textarea {
+width:439px;
+height:27px;
+background:#efefef;
+border:1px solid #dedede;
+padding:10px;
+margin-top:3px;
+font-size:0.9em;
+color:#3a3a3a;
+}
+
+textarea {
+height:213px;
+
+}
+
+.header {
+  /*background: #EEFBFF;*/
+  background-color: #F9FCFE;
+  min-height: 100px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 100vw;
+}
+
+
+body {
+  /* overflow: overlay;*/
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+hi, h2, h3, h4, h5, h6 {
+  color: #434a54;
+  line-height: 1.1em;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 22px;
+}
+
+
+
+
+.tex-box {
+  border: 1px solid #dadcde;
+  font-size: 13px;
+  border-radius: 0;
+}
+.tex-box {
+  border: 1px solid #dadcde;
+  font-size: 15px;
+  border-radius: 18px;
+  padding: 7px;
+  width: 285px;
+  margin-left: 15px;
+}
+
+label {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+
